@@ -1,0 +1,20 @@
+.footer__logo {
+    padding: 1rem;
+
+    @media(min-width: 1200px) {
+        padding: 1.7rem;
+    }
+
+    @media(min-width: 1500px) {
+        padding: 2.5rem;
+    }
+    
+    & .logo__name {
+        text-align: center;
+
+        @media(min-width: 1500px) {
+            text-align: right;
+        }
+    }
+
+}

@@ -1,0 +1,111 @@
+
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/fonts/Roboto/Roboto-Bold.eot');
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+      url('../public/fonts/Roboto/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+      url('../public/fonts/Roboto/Roboto-Bold.woff') format('woff'),
+      url('../public/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/fonts/Roboto/Roboto-Regular.eot');
+  src: local('Roboto'), local('Roboto-Regular'),
+      url('../public/fonts/Roboto/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+      url('../public/fonts/Roboto/Roboto-Regular.woff') format('woff'),
+      url('../public/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../public/fonts/Roboto/Roboto-Medium.eot');
+  src: local('Roboto Medium'), local('Roboto-Medium'),
+      url('../public/fonts/Roboto/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+      url('../public/fonts/Roboto/Roboto-Medium.woff') format('woff'),
+      url('../public/fonts/Roboto/Roboto-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+html {
+	font-size: 16px;	
+}
+
+body {
+  margin: 0;
+  font-family:  'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+	position: relative;
+  
+  background-color: #EFECEC;;
+}
+
+.page {
+	max-width: 1920px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+	transition: all 0.2s ease;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    line-height: 1.2;
+}
+
+p {
+    margin: 0;
+}
+
+.button {
+  background: 0;
+  margin: 0;
+  padding: 0;
+  
+  font: inherit;
+}
+
+.visually-hidden:not(:focus):not(:active) {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	margin: -1px;
+	border: 0;
+	padding: 0;
+	white-space: nowrap;
+	clip-path: inset(100%);
+	clip: rect(0 0 0 0);
+}
+
+.list_style_type_none {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+
+}
+
+.text_decoration_none {
+  text-decoration: none;
+}
+
+.hide {
+  display: none !important;
+}
+
+
+
+
+

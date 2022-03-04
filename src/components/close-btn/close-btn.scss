@@ -1,0 +1,27 @@
+.close_svg {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+
+    fill: #1D1D1B;
+
+    @media(min-width: 1200px) {
+        width: 14px;
+        height: 14px;
+    }
+}
+
+.close_btn {
+    &:hover .close_svg {
+        fill: #486d92;
+    }
+
+    &:hover {
+        border-color: #486d92;
+        transform: rotate(360deg);
+    }
+
+    @media(min-width: 1500px) {
+        display: none;
+    }
+}
