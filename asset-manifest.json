@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/test-drinks-react/static/css/main.748bc7b8.css",
+    "main.js": "/test-drinks-react/static/js/main.b0741d27.js",
+    "static/js/787.f4dc4c5a.chunk.js": "/test-drinks-react/static/js/787.f4dc4c5a.chunk.js",
+    "static/media/2.jpg": "/test-drinks-react/static/media/2.af1b429aa1adb5afc22b.jpg",
+    "static/media/2_mobile.jpg": "/test-drinks-react/static/media/2_mobile.5f7c5c826e3dddf15bbc.jpg",
+    "static/media/Roboto-Medium.eot": "/test-drinks-react/static/media/Roboto-Medium.f9f0c87146a33023da7e.eot",
+    "static/media/Roboto-Medium.ttf": "/test-drinks-react/static/media/Roboto-Medium.ef677e217f2009c16854.ttf",
+    "static/media/Roboto-Regular.eot": "/test-drinks-react/static/media/Roboto-Regular.30b57652c88c5dbd65de.eot",
+    "static/media/Roboto-Regular.ttf": "/test-drinks-react/static/media/Roboto-Regular.25e40da956314b12d333.ttf",
+    "static/media/Roboto-Bold.eot": "/test-drinks-react/static/media/Roboto-Bold.6490694b37b0ee09bd91.eot",
+    "static/media/Roboto-Bold.ttf": "/test-drinks-react/static/media/Roboto-Bold.5e9f6556d3c0bf6230f0.ttf",
+    "static/media/2_tablet.jpg": "/test-drinks-react/static/media/2_tablet.b622b1e76b81b200ae78.jpg",
+    "static/media/1.jpg": "/test-drinks-react/static/media/1.3bbaea6ef5d0563dbf32.jpg",
+    "static/media/3.jpg": "/test-drinks-react/static/media/3.92d8f83dda91a30605d8.jpg",
+    "static/media/1_tablet.jpg": "/test-drinks-react/static/media/1_tablet.2a9a0c8747866d20ec7e.jpg",
+    "static/media/Roboto-Medium.woff": "/test-drinks-react/static/media/Roboto-Medium.b14ca2d2b289afceb0b0.woff",
+    "static/media/Roboto-Bold.woff": "/test-drinks-react/static/media/Roboto-Bold.3f2cbde6b72e8d05669f.woff",
+    "static/media/Roboto-Regular.woff": "/test-drinks-react/static/media/Roboto-Regular.31012f9b3e3da44f87e8.woff",
+    "static/media/3_tablet.jpg": "/test-drinks-react/static/media/3_tablet.881193c1c32975dd927a.jpg",
+    "static/media/1_mobile.jpg": "/test-drinks-react/static/media/1_mobile.67c1c6ee0f7f3c5b8c7b.jpg",
+    "static/media/3_mobile.jpg": "/test-drinks-react/static/media/3_mobile.b9ec0788a04c086d888c.jpg",
+    "static/media/logo-img.svg": "/test-drinks-react/static/media/logo-img.ddad82fe46c023a85a6203997a4e0a9a.svg",
+    "index.html": "/test-drinks-react/index.html",
+    "main.748bc7b8.css.map": "/test-drinks-react/static/css/main.748bc7b8.css.map",
+    "main.b0741d27.js.map": "/test-drinks-react/static/js/main.b0741d27.js.map",
+    "787.f4dc4c5a.chunk.js.map": "/test-drinks-react/static/js/787.f4dc4c5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.748bc7b8.css",
+    "static/js/main.b0741d27.js"
+  ]
+}
